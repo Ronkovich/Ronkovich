@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ronkovich
 - 👀 I’m interested in physics, maths and coding
-- 🌱 I’m currently learning a lot of stuff, including python
+- 🌱 I’m currently learning lots of stuff, including python
 - 💞️ I’m looking to collaborate on anything reachable for me 
 - 📫 How to reach me: by writing on email
 
